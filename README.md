@@ -23,7 +23,7 @@ async def on_message(message):
             picture = discord.file(f)
             await message.channel.send(content="aqui esta la imagen de tu gatito", file=picture)
             
-bot.run("MTI1Mzg5ODMyMTYzOTExNjgwMQ.G91vsT.S10AhDI8OAArdrDBQssnuPuPXZhTOXMpRDiKbQ")
+bot.run("esto no lo puedes saber")
 
 
 
